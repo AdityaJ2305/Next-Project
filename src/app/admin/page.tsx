@@ -1,9 +1,9 @@
 
-export default function Home() {
+export default function Admin() {
     return (
-      <main>
-        hello 
-      </main>
+      <div>
+        hello I am admin 
+      </div>
     );
   }
   
